@@ -1,0 +1,68 @@
+Ejemplo 1
+
+[
+  ["E", "G", "L", "A", "P", "O", "S", "A", "M", "S", "A", "R", "W"],
+  ["E", "B", "L", "S", "B", "O", "E", "N", "R", "W", "N", "L", "O"],
+  ["B", "L", "D", "A", "A", "S", "L", "R", "L", "I", "A", "S", "A"],
+  ["M", "E", "I", "E", "W", "W", "L", "C", "I", "A", "R", "M", "A"],
+  ["S", "R", "G", "M", "R", "G", "E", "E", "R", "A", "E", "N", "U"],  
+  ["E", "E", "A", "I", "A", "L", "N", "A", "R", "T", "L", "S", "R"],
+  ["A", "I", "A", "R", "U", "I", "O", "T", "S", "S", "S", "P", "I"],
+  ["U", "I", "A", "L", "A", "C", "R", "I", "O", "O", "A", "S", "R"],
+  ["R", "R", "V", "I", "U", "A", "S", "M", "D", "D", "S", "C", "B"],
+  ["I", "R", "M", "O", "P", "A", "A", "W", "A", "G", "T", "R", "E"],
+  ["D", "N", "A", "G", "N", "R", "D", "J", "U", "L", "I", "A", "N"],
+  ["A", "D", "E", "M", "E", "R", "L", "S", "O", "B", "A", "S", "L"],
+  ["D", "D", "E", "P", "E", "A", "E", "O", "T", "O", "R", "O", "A"]
+]
+
+SOPA
+JULIAN,
+SISTEMA
+TORO,
+NOVIA
+
+Ejemplo 2
+
+DEYQAUG;
+XRGTUAV;
+SCASABE;
+XAJGUHV;
+FMOROLB;
+GAHJENE;
+
+DRAGON, CASA, CAMA y LORO 
+
+Ejemplo 3
+
+[
+  ["S", "G", "L", "A", "P", "O"],
+  ["E", "A", "L", "S", "B", "S"],
+  ["B", "L", "B", "E", "A", "O"],
+  ["M", "E", "T", "I", "W", "W"],
+  ["S", "N", "G", "M", "O", "G"],  
+  ["E", "E", "A", "I", "A", "L"]
+]
+
+SABIO, OSO, ENTE
+
+
+Ejemplo 4
+
+QSDCV;
+QUIAS;
+OUEBY;
+QW;
+ERTHY;
+
+Ejemplo 5
+
+[
+  ["S", "G", "L"],
+  ["E", "A", "L"],
+  ["B", "L", "B", "E"],
+  ["M", "E", "T", "I", "W"],
+  ["S", "N", "G"],  
+  ["E", "E", "A"]
+]
+

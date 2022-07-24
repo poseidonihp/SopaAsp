@@ -1,0 +1,63 @@
+
+  
+  .array-entry {
+    width: 50%;
+    height: 420px;
+    padding-bottom: 50px;
+    background-color: #BDBDBD;
+
+        text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  .title {
+    font-family: 'Montserrat', sans-serif;
+        background-color: #212121;
+    color: white;
+  }
+  
+  .search-word {
+    width: 50%;
+    height: 420px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: #BDBDBD;
+  }
+  
+.textField-style {
+    flex: 1;
+    z-index: 1;
+    background-color: white;
+    width: 80%;
+}
+.textField-style-input {
+    flex: 1;
+    z-index: 1;
+    background-color: white;
+    width: 80%;
+}
+
+.button-style {    
+    padding: 10px;
+}
+.error-input {
+    display: block;
+    padding: 5px;
+    color: #9f3535;
+    font-weight: 600;
+}
+.span-width {
+    padding-bottom: 10px;
+}
+.width-size {
+    display: flex;
+    flex-direction: column;
+}
+h2, span, p{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.button-style {
+    font-family: 'Montserrat', sans-serif !important;
+
+}
