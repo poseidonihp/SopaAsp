@@ -13,3 +13,4 @@ En la raiz del proyecto se encuentra un archivo con ejemplos que recibe la aplic
 Correr la aplicacion en modo Desarrollo
 Abrir [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
+![image](https://user-images.githubusercontent.com/8270882/180654065-72d52194-f83a-41a8-a46b-8090bf35605a.png)
